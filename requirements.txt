@@ -1,0 +1,13 @@
+Flask
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+opencv-python
+matplotlib
+Pillow
+requests
+gunicorn
+werkzeug
+jinja2
