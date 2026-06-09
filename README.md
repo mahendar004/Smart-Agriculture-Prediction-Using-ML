@@ -1,12 +1,16 @@
 # Smart Agriculture Prediction Using ML
 
-## Project Overview
-
-This project helps farmers by providing:
+<<<<<<< HEAD
+=======
+>>>>>>> 57d68af8ccae941fb69797e50b488fbf094a23a4
 
 * Crop Recommendation
 * Fertilizer Recommendation
 * Plant Disease Detection
+<<<<<<< HEAD
+=======
+* User-Friendly Web Interface
+>>>>>>> 57d68af8ccae941fb69797e50b488fbf094a23a4
 
 ## Technologies Used
 
@@ -19,6 +23,7 @@ This project helps farmers by providing:
 * Git
 * GitHub
 
+<<<<<<< HEAD
 ## Features
 
 ### Crop Recommendation
@@ -28,6 +33,17 @@ Predicts the most suitable crop based on:
 * Nitrogen
 * Phosphorous
 * Potassium
+=======
+## Project Modules
+
+### Crop Recommendation
+
+Predicts the best crop based on:
+
+* Nitrogen (N)
+* Phosphorus (P)
+* Potassium (K)
+>>>>>>> 57d68af8ccae941fb69797e50b488fbf094a23a4
 * Temperature
 * Humidity
 * pH
@@ -35,11 +51,19 @@ Predicts the most suitable crop based on:
 
 ### Fertilizer Recommendation
 
+<<<<<<< HEAD
 Suggests fertilizers based on soil nutrient values.
 
 ### Disease Detection
 
 Detects plant diseases using Deep Learning and provides prevention suggestions.
+=======
+Suggests suitable fertilizers based on soil nutrient levels.
+
+### Disease Detection
+
+Detects plant diseases using deep learning models.
+>>>>>>> 57d68af8ccae941fb69797e50b488fbf094a23a4
 
 ## Installation
 
